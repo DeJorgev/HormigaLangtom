@@ -1,0 +1,8 @@
+TamañoEjeYTablero: 8
+TamañoEjeXTablero: 8
+NumeroMovimientos: 1500
+NumeroDeHormigas: 2
+PosicionInicialHormigaY: 2 3
+PosicionInicialHormigaX: 2 3
+DireccionInicial: 0 1
+Reglas: rrll llrr
